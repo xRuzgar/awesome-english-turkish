@@ -1,376 +1,406 @@
-# Awesome English [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome English Türkçe 🇹🇷 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated collection of high-quality resources for learning English,
-focused on practicing the core skills — listening, speaking, reading, and writing.
-Includes resources for grammar, vocabulary, and media to enhance your English studies.
-This list is for:
+İngilizce öğrenmek için kaliteli kaynakların özenle derlenmiş bir koleksiyonu. Dinleme, konuşma, okuma ve yazma gibi temel becerileri geliştirmeye odaklanır. İngilizce çalışmalarınızı desteklemek için dil bilgisi, kelime dağarcığı ve çeşitli medya kaynaklarını da içerir.
 
-- ESL Learners at all levels
-- Self-study enthusiasts seeking structured practice
-- Educators looking for student resources
-- Professionals improving English for work, study, or travel
+Bu liste şu kişiler için hazırlanmıştır:
 
-## Contents
+- Her seviyeden İngilizce öğrenenler
+- Planlı ve düzenli pratik yapmak isteyen kendi kendine öğrenenler
+- Öğrencileri için kaynak arayan eğitimciler
+- İş, eğitim veya seyahat amacıyla İngilizcesini geliştirmek isteyen profesyoneller
 
-- [Top Picks](#top-picks)
-- [Methods & Techniques](#methods--techniques)
-- [Listening](#listening)
-- [Speaking](#speaking)
-- [Watching](#watching)
-- [Reading](#reading)
-- [Writing](#writing)
-- [AI-Powered English Learning](#ai-powered-english-learning)
-- [Grammar](#grammar)
-- [Vocabulary](#vocabulary)
-- [Tools](#tools)
-- [Exercises and Tests](#exercises-and-tests)
-- [Online Classes](#online-classes)
-- [FAQ or Common Questions](#faq-or-common-questions)
-- [Contribute](#contribute)
+## İçindekiler
 
-## Top Picks
+- [Öne Çıkan Kaynaklar](#öne-çıkan-kaynaklar)
+- [Yöntemler ve Teknikler](#yöntemler-ve-teknikler)
+- [Dinleme](#dinleme)
+- [Konuşma](#konuşma)
+- [İzleme](#izleme)
+- [Okuma](#okuma)
+- [Yazma](#yazma)
+- [Yapay Zekâ Destekli İngilizce Öğrenimi](#yapay-zekâ-destekli-ingilizce-öğrenimi)
+- [Dil Bilgisi](#dil-bilgisi)
+- [Kelime Dağarcığı](#kelime-dağarcığı)
+- [Araçlar](#araçlar)
+- [Alıştırmalar ve Testler](#alıştırmalar-ve-testler)
+- [Çevrim İçi Dersler](#çevrim-içi-dersler)
+- [Sık Sorulan Sorular](#sık-sorulan-sorular)
+- [Katkıda Bulunma](#katkıda-bulunma)
+
+## Öne Çıkan Kaynaklar
+
 <!--lint disable awesome-list-item-->
-- [Anki][anki-url] - Effective flashcard app for vocabulary expansion through daily review.
-- [Hard Fork by The New York Times][hard-fork-url] - Weekly exploration of the latest in the rapidly changing world of tech.
-- [NPR][npr-url] - National Public Radio with transcripts available, ideal for daily listening.
-- [English Grammar in Use (Murphy)][murphy-grammar-url] - Best-selling grammar book for learners of English.
-- [Harry Potter Series](#books) - Popular book series with gradually increasing language complexity, suitable for learners.
-- [ChatGPT](#recommended-llms) - Versatile AI for conversational practice, writing help, and vocabulary exploration.
+- [Anki][anki-url] - Her gün tekrar yaparak kelime dağarcığınızı geliştirmenizi sağlayan etkili bir bilgi kartı uygulaması.
+- [The New York Times – Hard Fork][hard-fork-url] - Teknoloji dünyasındaki hızlı değişimleri ele alan haftalık bir podcast.
+- [NPR][npr-url] - Deşifre metinleri de sunan ABD Ulusal Kamu Radyosu; günlük dinleme pratiği için idealdir.
+- [English Grammar in Use (Murphy)][murphy-grammar-url] - İngilizce öğrenenler için çok satan bir dil bilgisi kitabı.
+- [Harry Potter Serisi](#kitaplar) - Dil seviyesi kitaplar ilerledikçe kademeli olarak zorlaşan ve öğrenenler için uygun olabilecek popüler bir kitap serisi.
+- [ChatGPT](#önerilen-büyük-dil-modelleri) - Sohbet pratiği, yazma desteği ve kelime keşfi için çok yönlü bir yapay zekâ aracı.
 <!--lint disable awesome-list-item-->
 
-## Methods & Techniques
+## Yöntemler ve Teknikler
 
-High-leverage techniques experienced learners rely on — the "how" behind the resources in this list.
+Bu listedeki kaynaklardan en iyi şekilde yararlanmanıza yardımcı olabilecek, deneyimli dil öğrenenlerin kullandığı etkili yöntemler.
 
-- [Comprehensible Input](https://yvoronoy.github.io/awesome-english/go/comprehensible-input/) - Acquire English mainly by understanding content slightly above your current level, rather than drilling rules.
-- [Shadowing](https://yvoronoy.github.io/awesome-english/go/shadowing/) - Play native audio and echo it aloud in near real-time to train pronunciation, rhythm, and listening.
-- [Sentence Mining](https://yvoronoy.github.io/awesome-english/go/sentence-mining/) - Turn sentences you meet in real content into flashcards so you learn words in context (pairs with Anki).
-- [Extensive Reading](https://yvoronoy.github.io/awesome-english/go/extensive-reading/) - Read large amounts of easy, enjoyable material for meaning to build vocabulary and fluency naturally.
-- [Refold](https://yvoronoy.github.io/awesome-english/go/refold/) - Free, step-by-step roadmap that sequences comprehensible input, immersion, and sentence mining.
+- [Anlaşılabilir Girdi (Comprehensible Input)](https://yvoronoy.github.io/awesome-english/go/comprehensible-input/) - Kuralları ezberlemeye odaklanmak yerine, mevcut seviyenizin biraz üzerinde olan içerikleri anlayarak İngilizce edinmek.
+- [Gölgeleme (Shadowing)](https://yvoronoy.github.io/awesome-english/go/shadowing/) - Telaffuz, ritim ve dinleme becerilerini geliştirmek için ana dili İngilizce olan kişilerin ses kayıtlarını dinleyip neredeyse eş zamanlı olarak tekrar etmek.
+- [Cümle Madenciliği (Sentence Mining)](https://yvoronoy.github.io/awesome-english/go/sentence-mining/) - Kelimeleri bağlam içinde öğrenmek için gerçek içeriklerde karşılaştığınız cümleleri bilgi kartlarına dönüştürmek. Anki ile birlikte kullanılabilir.
+- [Yoğun Okuma (Extensive Reading)](https://yvoronoy.github.io/awesome-english/go/extensive-reading/) - Kelime dağarcığını ve akıcılığı doğal biçimde geliştirmek için seviyenize uygun, kolay ve keyifli metinlerden bol miktarda okumak.
+- [Refold](https://yvoronoy.github.io/awesome-english/go/refold/) - Anlaşılabilir girdi, dile yoğun biçimde maruz kalma ve cümle madenciliği yöntemlerini aşamalı olarak bir araya getiren ücretsiz bir yol haritası.
 
-## Listening
+## Dinleme
 
-### Podcasts 🎧
+### Podcast'ler 🎧
 
-Podcasts provide an engaging medium to enhance listening skills through diverse topics and formats. Many include transcripts, enabling simultaneous listening and reading, which aids comprehension.
+Podcast'ler, farklı konu ve biçimleriyle dinleme becerilerini geliştirmek için ilgi çekici bir yöntem sunar. Birçoğunda deşifre metinleri bulunur; böylece dinlerken aynı anda okuyabilir ve duyduklarınızı daha iyi anlayabilirsiniz.
 
-#### Beginner Friendly 🔰
-- [6 Minute English](https://yvoronoy.github.io/awesome-english/go/6-minute-english/) - Teaches useful English language for everyday situations with the BBC.
-- [ESL Podcasts](https://yvoronoy.github.io/awesome-english/go/esl-podcasts/) - Ideal for those looking to improve English speaking and listening skills.
+#### Başlangıç Seviyesi 🔰
 
-#### Intermediate Level 📚
-- [All Ears English](https://yvoronoy.github.io/awesome-english/go/all-ears-english/) - Focuses on advanced conversational American English.
-- [Culips Podcast](https://yvoronoy.github.io/awesome-english/go/culips-podcast/) - Focuses on conversational English for everyday use by native speakers.
-- [Luke's English Podcast](https://yvoronoy.github.io/awesome-english/go/lukes-english-podcast/) - Hosted by a qualified language teacher and stand-up comedian, providing an engaging podcast series.
-- [CNN 10](https://yvoronoy.github.io/awesome-english/go/cnn-10/) - Ten-minute digital news show explaining global news to a worldwide audience.
+- [6 Minute English](https://yvoronoy.github.io/awesome-english/go/6-minute-english/) - BBC tarafından hazırlanan, günlük durumlarda kullanışlı İngilizce öğreten bir podcast.
+- [ESL Podcasts](https://yvoronoy.github.io/awesome-english/go/esl-podcasts/) - İngilizce konuşma ve dinleme becerilerini geliştirmek isteyenler için uygun podcast'ler.
 
-#### Advanced Level 🎓
-- [A Way with Words](https://yvoronoy.github.io/awesome-english/go/a-way-with-words/) - Explores language through history, culture, and family on a public radio program.
-- [This American Life](https://yvoronoy.github.io/awesome-english/go/this-american-life/) - A popular podcast featuring journalism, comedy routines, and essays.
-- [English Learning for Curious Minds](https://yvoronoy.github.io/awesome-english/go/english-learning-for-curious-minds/) - Features episodes on history, politics, and unusual stories, complete with transcripts and vocabulary aids.
+#### Orta Seviye 📚
 
-### Tech Podcasts 💻
+- [All Ears English](https://yvoronoy.github.io/awesome-english/go/all-ears-english/) - İleri düzey konuşma İngilizcesine, özellikle Amerikan İngilizcesine odaklanır.
+- [Culips Podcast](https://yvoronoy.github.io/awesome-english/go/culips-podcast/) - Ana dili İngilizce olan kişilerin günlük konuşmalarda kullandığı İngilizceyi ele alır.
+- [Luke's English Podcast](https://yvoronoy.github.io/awesome-english/go/lukes-english-podcast/) - Dil öğretmeni ve stand-up komedyeni tarafından sunulan, eğlenceli bir podcast serisi.
+- [CNN 10](https://yvoronoy.github.io/awesome-english/go/cnn-10/) - Dünya haberlerini küresel bir izleyici kitlesine açıklayan, on dakikalık dijital haber programı.
 
-Tech podcasts improve English skills while keeping you updated on technology. They introduce new vocabulary and industry terms, enhancing comprehension and listening.
+#### İleri Seviye 🎓
 
-#### General Tech 🖥️
-- [Hard Fork by The New York Times][hard-fork-url] - Weekly exploration of the latest in the rapidly changing world of tech.
-- [Bloomberg Technology](https://yvoronoy.github.io/awesome-english/go/bloomberg-technology/) - In-depth coverage of technology industry news and innovations.
+- [A Way with Words](https://yvoronoy.github.io/awesome-english/go/a-way-with-words/) - Kamu radyosunda dilin tarihini ve kültürünü, ayrıca aile ve günlük yaşamla ilişkisini inceler.
+- [This American Life](https://yvoronoy.github.io/awesome-english/go/this-american-life/) - Gazetecilik, komedi bölümleri ve denemeler içeren popüler bir podcast.
+- [English Learning for Curious Minds](https://yvoronoy.github.io/awesome-english/go/english-learning-for-curious-minds/) - Tarih, siyaset ve sıra dışı hikâyeler üzerine bölümler sunar; deşifre metinleri ve kelime desteği de içerir.
 
-#### Developer Focused 👨‍💻
-- [Talk Python To Me](https://yvoronoy.github.io/awesome-english/go/talk-python-to-me/) - Podcast covering Python and related technologies.
-- [The PHP Roundtable](https://yvoronoy.github.io/awesome-english/go/the-php-roundtable/) - Web developers discussing PHP, JavaScript, community, and open source.
-- [Google Cloud Platform Podcast](https://yvoronoy.github.io/awesome-english/go/google-cloud-platform-podcast/) - Weekly discussions covering various topics on Google Cloud Platform.
+### Teknoloji Podcast'leri 💻
 
-### Interview Podcasts 🎤
+Teknoloji podcast'leri, teknoloji dünyasındaki gelişmeleri takip ederken İngilizcenizi geliştirmenize yardımcı olur. Yeni kelimeler ve sektöre özgü terimler öğrenmenizi sağlayarak dinlediğinizi anlama becerinizi güçlendirir.
 
-Interview podcasts help develop advanced listening skills through natural conversations and diverse speaking styles. They cover a wide range of topics and feature different accents and speaking patterns.
+#### Genel Teknoloji 🖥️
 
-#### Thought Leadership 🧠
-- [Lex Fridman Podcast](https://yvoronoy.github.io/awesome-english/go/lex-fridman-podcast/) - Deep conversations about intelligence, consciousness, love, and power.
-- [The Knowledge Project](https://yvoronoy.github.io/awesome-english/go/the-knowledge-project/) - Interviews with world-class doers and thinkers, packed with lessons and insights.
-- [The Ezra Klein Show](https://yvoronoy.github.io/awesome-english/go/the-ezra-klein-show/) - In-depth conversations about ideas with leading thinkers across politics, society, and culture; suited for advanced learners.
+- [The New York Times – Hard Fork][hard-fork-url] - Teknoloji dünyasındaki hızlı değişimleri ele alan haftalık bir podcast.
+- [Bloomberg Technology](https://yvoronoy.github.io/awesome-english/go/bloomberg-technology/) - Teknoloji sektöründeki haberleri ve yenilikleri ayrıntılı biçimde ele alır.
 
-#### General Interest & Entertainment 🌟
-- [The Tim Ferriss Show](https://yvoronoy.github.io/awesome-english/go/the-tim-ferriss-show/) - Deconstructing world-class performers to extract actionable tactics and routines.
-- [Joe Rogan Experience](https://yvoronoy.github.io/awesome-english/go/joe-rogan-experience/) - Wide-ranging conversations with diverse guests, suitable for extended listening practice.
-- [Fresh Air with Terry Gross](https://yvoronoy.github.io/awesome-english/go/fresh-air-with-terry-gross/) - Respected interview program with in-depth conversations on arts, culture, and politics; features clear speaking and thoughtful questions.
-- [Armchair Expert with Dax Shepard](https://yvoronoy.github.io/awesome-english/go/armchair-expert-with-dax-shepard/) - Conversational, long-form interviews exploring human experiences with celebrities, experts, and thought leaders in an authentic, accessible format.
-- [WTF with Marc Maron](https://yvoronoy.github.io/awesome-english/go/wtf-with-marc-maron/) - A pioneering interview podcast with over 1,000 episodes featuring deep, revealing conversations primarily with entertainers, comedians, and cultural figures.
-- [Conan O'Brien Needs A Friend](https://yvoronoy.github.io/awesome-english/go/conan-obrien-needs-a-friend/) - Popular comedian interviews celebrities and interesting personalities in a casual, humorous format that showcases natural conversational English.
-- [SmartLess](https://yvoronoy.github.io/awesome-english/go/smartless/) - Hosted by Jason Bateman, Will Arnett, and Sean Hayes, featuring surprise guests and conversational interviews with a comedic tone that demonstrates natural banter and humor.
+#### Yazılım Geliştiricilere Yönelik 👨‍💻
 
-#### Business & Innovation 💼
-- [How I Built This with Guy Raz](https://yvoronoy.github.io/awesome-english/go/how-i-built-this-with-guy-raz/) - Entrepreneurs and innovators share stories behind their companies, offering exposure to business English and narrative storytelling.
+- [Talk Python To Me](https://yvoronoy.github.io/awesome-english/go/talk-python-to-me/) - Python ve ilgili teknolojiler hakkında bir podcast.
+- [The PHP Roundtable](https://yvoronoy.github.io/awesome-english/go/the-php-roundtable/) - PHP, JavaScript, topluluklar ve açık kaynak hakkında konuşan web geliştiricilerini bir araya getirir.
+- [Google Cloud Platform Podcast](https://yvoronoy.github.io/awesome-english/go/google-cloud-platform-podcast/) - Google Cloud Platform ile ilgili çeşitli konuları ele alan haftalık bir podcast.
 
-### Live Radio Stations 📻
+### Röportaj Podcast'leri 🎤
 
-Online radio stations provide real-time exposure to native English speakers, helping you adapt to different accents, speech patterns, and current events discussions.
+Röportaj podcast'leri, doğal konuşmalara ve farklı konuşma tarzlarına maruz kalmanızı sağlayarak ileri düzey dinleme becerilerini geliştirmeye yardımcı olur. Çeşitli aksanlar ve konuşma biçimleriyle karşılaşabilirsiniz.
 
-#### National Broadcasters 🌍
-- [NPR][npr-url] - National Public Radio with transcripts available.
-- [BBC London](https://yvoronoy.github.io/awesome-english/go/bbc-london/) - News and talk radio station from London.
-- [Bloomberg Radio](https://yvoronoy.github.io/awesome-english/go/bloomberg-radio/) - Financial markets and business news radio.
+#### Fikirler ve Düşünce Dünyası 🧠
 
-#### Regional Stations - East Coast 🌅
-- [WOR 710AM - New York, New York](https://yvoronoy.github.io/awesome-english/go/wor-710am-new-york-new-york/) - News/talk radio station in New York.
-- [Fox News Talk](https://yvoronoy.github.io/awesome-english/go/fox-news-talk/) - News radio station based in New York.
-- [WNYC](https://yvoronoy.github.io/awesome-english/go/wnyc/) - Public radio stations located in New York City.
-- [LBC - London Broadcasting Company](https://yvoronoy.github.io/awesome-english/go/lbc-london-broadcasting-company/) - Independent news/talk radio station in London.
+- [Lex Fridman Podcast](https://yvoronoy.github.io/awesome-english/go/lex-fridman-podcast/) - Zekâ, bilinç, sevgi ve güç gibi konular üzerine derinlemesine sohbetler.
+- [The Knowledge Project](https://yvoronoy.github.io/awesome-english/go/the-knowledge-project/) - Alanlarında başarılı kişiler ve düşünürlerle yapılan, dersler ve içgörüler içeren röportajlar.
+- [The Ezra Klein Show](https://yvoronoy.github.io/awesome-english/go/the-ezra-klein-show/) - Siyaset, toplum ve kültür üzerine önde gelen düşünürlerle yapılan derinlemesine sohbetler; ileri düzey öğrenenler için uygundur.
 
-#### Regional Stations - West Coast 🌄
-- [KRLA 870AM - Los Angeles](https://yvoronoy.github.io/awesome-english/go/krla-870am-los-angeles/) - News/talk radio station in Los Angeles.
+#### Genel İlgi ve Eğlence 🌟
 
-#### Regional Stations - Central 🌎
-- [WBAP 820AM - Dallas](https://yvoronoy.github.io/awesome-english/go/wbap-820am-dallas/) - News/talk radio station in Dallas.
-- [KTRH 740AM - Houston](https://yvoronoy.github.io/awesome-english/go/ktrh-740am-houston/) - News/talk radio station in Houston.
-- [KOA 850AM - Denver](https://yvoronoy.github.io/awesome-english/go/koa-850am-denver/) - News/talk radio station in Denver.
+- [The Tim Ferriss Show](https://yvoronoy.github.io/awesome-english/go/the-tim-ferriss-show/) - Üst düzey performans gösteren kişilerin yöntemlerini ve rutinlerini inceleyerek uygulanabilir öneriler çıkarır.
+- [Joe Rogan Experience](https://yvoronoy.github.io/awesome-english/go/joe-rogan-experience/) - Farklı konuklarla çok çeşitli konuları ele alan, uzun süreli dinleme pratiğine uygun sohbetler.
+- [Fresh Air with Terry Gross](https://yvoronoy.github.io/awesome-english/go/fresh-air-with-terry-gross/) - Sanat, kültür ve siyaset üzerine derinlemesine sohbetler sunan saygın bir röportaj programı. Anlaşılır konuşmalar ve özenli sorular içerir.
+- [Armchair Expert with Dax Shepard](https://yvoronoy.github.io/awesome-english/go/armchair-expert-with-dax-shepard/) - Ünlüler, uzmanlar ve düşünce önderleriyle insan deneyimlerini doğal ve erişilebilir bir biçimde ele alan uzun sohbetler.
+- [WTF with Marc Maron](https://yvoronoy.github.io/awesome-english/go/wtf-with-marc-maron/) - Çoğunlukla eğlence dünyasından kişilerle yapılan, derin ve samimi sohbetler içeren; 1.000'den fazla bölümü bulunan öncü bir röportaj podcast'i.
+- [Conan O'Brien Needs A Friend](https://yvoronoy.github.io/awesome-english/go/conan-obrien-needs-a-friend/) - Ünlülerle ve ilgi çekici kişilerle rahat, mizahi röportajlar yapan komedyen Conan O'Brien'ın programı. Doğal konuşma İngilizcesini gösterir.
+- [SmartLess](https://yvoronoy.github.io/awesome-english/go/smartless/) - Jason Bateman, Will Arnett ve Sean Hayes tarafından sunulur. Sürpriz konuklar ve mizahi sohbetler aracılığıyla doğal diyaloglara ve esprilere örnekler sunar.
 
-### Sites
+#### İş Dünyası ve Yenilik 💼
 
-- [BBC Learning English](https://yvoronoy.github.io/awesome-english/go/bbc-learning-english/) - Free lessons, videos, and courses covering all levels from the BBC.
-- [British Council LearnEnglish](https://yvoronoy.github.io/awesome-english/go/british-council-learnenglish/) - Free grammar, vocabulary, and skills practice from the UK's leading English-teaching institution.
-- [Spotlight](https://yvoronoy.github.io/awesome-english/go/spotlight/) - Daily 15-minute radio program for learning English.
-- [ESL Lab](https://yvoronoy.github.io/awesome-english/go/esl-lab/) - Offers English listening comprehension exercises with conversations at various levels.
-- [EngVid](https://yvoronoy.github.io/awesome-english/go/engvid/) - Provides free English video lessons on grammar, vocabulary, pronunciation, and more.
-- [Pimsleur](https://yvoronoy.github.io/awesome-english/go/pimsleur/) - Audio-first courses that build speaking and listening through spaced, spoken-response drills.
-- [Numblr](https://yvoronoy.github.io/awesome-english/go/numblr/) - Focused listening practice for English numbers — hear dates, times, phone numbers, and money amounts in real-world contexts and type what you hear. Great for IELTS/TOEFL prep.
+- [How I Built This with Guy Raz](https://yvoronoy.github.io/awesome-english/go/how-i-built-this/) - Girişimciler ve yenilikçiler şirketlerinin kuruluş hikâyelerini paylaşır; iş İngilizcesi ve hikâye anlatımı pratiği için yararlıdır.
 
-## Speaking
+### Canlı Radyo İstasyonları 📻
 
-The list includes language exchange platforms, apps for pronunciation, forums.
+Çevrim içi radyo istasyonları, ana dili İngilizce olan kişileri gerçek zamanlı dinlemenizi sağlar. Farklı aksanlara, konuşma biçimlerine ve güncel olaylarla ilgili tartışmalara alışmanıza yardımcı olur.
 
-- [Tandem](https://yvoronoy.github.io/awesome-english/go/tandem/) - Language exchange app connecting users with native speakers for text, voice, and video chats.
-- [HelloTalk](https://yvoronoy.github.io/awesome-english/go/hellotalk/) - App that links you with native speakers for language exchange through text and voice messages. Focuses on building conversational skills.
-- [Reddit's r/Language_Exchange](https://yvoronoy.github.io/awesome-english/go/reddits-r-language-exchange/) - Reddit community where users can find language exchange partners to practice speaking with.
-- [Discord Language Learning Servers](https://yvoronoy.github.io/awesome-english/go/discord-language-learning-servers/) - Communities on Discord where you can join voice chats for real-time language speaking practice.
-- [Elsa Speak](https://yvoronoy.github.io/awesome-english/go/elsa-speak/) - AI-driven app for improving pronunciation by offering detailed feedback on speaking.
-- [TalkEnglish](https://yvoronoy.github.io/awesome-english/go/talkenglish/) - Site with speaking exercises and conversation topics to improve fluency through practice.
-- [Rachel's English](https://yvoronoy.github.io/awesome-english/go/rachels-english/) - YouTube channel focusing on pronunciation and clear speaking in American English.
-- [BoldVoice](https://yvoronoy.github.io/awesome-english/go/boldvoice/) - Accent-coaching app with instant AI and real-coach feedback to make your spoken English clearer.
-- [Speak](https://yvoronoy.github.io/awesome-english/go/speak/) - AI conversation partner you talk to out loud for real speaking practice.
-- [Speechling](https://yvoronoy.github.io/awesome-english/go/speechling/) - Record sentences and get pronunciation feedback from real human coaches, free.
+#### Ulusal Yayıncılar 🌍
 
-## Watching
+- [NPR][npr-url] - Deşifre metinleri de bulunan ABD Ulusal Kamu Radyosu.
+- [BBC London](https://yvoronoy.github.io/awesome-english/go/bbc-london/) - Londra merkezli haber ve sohbet radyosu.
+- [Bloomberg Radio](https://yvoronoy.github.io/awesome-english/go/bloomberg-radio/) - Finans piyasaları ve iş dünyası haberleri sunan radyo.
+
+#### Bölgesel İstasyonlar – Doğu Yakası 🌅
+
+- [WOR 710AM – New York](https://yvoronoy.github.io/awesome-english/go/wor-710am-new-york-new-york/) - New York'ta yayın yapan haber ve sohbet radyosu.
+- [Fox News Talk](https://yvoronoy.github.io/awesome-english/go/fox-news-talk/) - New York merkezli haber radyosu.
+- [WNYC](https://yvoronoy.github.io/awesome-english/go/wnyc/) - New York'ta bulunan kamu radyosu istasyonları.
+- [LBC – London Broadcasting Company](https://yvoronoy.github.io/awesome-english/go/lbc-london-broadcasting-company/) - Londra merkezli bağımsız haber ve sohbet radyosu.
+
+#### Bölgesel İstasyonlar – Batı Yakası 🌄
+
+- [KRLA 870AM – Los Angeles](https://yvoronoy.github.io/awesome-english/go/krla-870am-los-angeles/) - Los Angeles'ta yayın yapan haber ve sohbet radyosu.
+
+#### Bölgesel İstasyonlar – Orta Bölgeler 🌎
+
+- [WBAP 820AM – Dallas](https://yvoronoy.github.io/awesome-english/go/wbap-820am-dallas/) - Dallas merkezli radyo istasyonu.
+- [KTRH 740AM – Houston](https://yvoronoy.github.io/awesome-english/go/ktrh-740am-houston/) - Houston merkezli radyo istasyonu.
+- [KOA 850AM – Denver](https://yvoronoy.github.io/awesome-english/go/koa-850am-denver/) - Denver merkezli radyo istasyonu.
+
+### İnternet Siteleri
+
+- [BBC Learning English](https://yvoronoy.github.io/awesome-english/go/bbc-learning-english/) - BBC tarafından sunulan, her seviyeye yönelik ücretsiz dersler, videolar ve kurslar.
+- [British Council LearnEnglish](https://yvoronoy.github.io/awesome-english/go/british-council-learnenglish/) - Birleşik Krallık'ın önde gelen İngilizce öğretim kurumundan ücretsiz dil bilgisi, kelime ve beceri alıştırmaları.
+- [Spotlight](https://yvoronoy.github.io/awesome-english/go/spotlight/) - İngilizce öğrenmek için her gün yayımlanan 15 dakikalık radyo programı.
+- [ESL Lab](https://yvoronoy.github.io/awesome-english/go/esl-lab/) - Farklı seviyelerdeki konuşmalarla dinlediğini anlama alıştırmaları sunar.
+- [EngVid](https://yvoronoy.github.io/awesome-english/go/engvid/) - Dil bilgisi, kelime dağarcığı, telaffuz ve daha fazlası hakkında ücretsiz İngilizce ders videoları.
+- [Pimsleur](https://yvoronoy.github.io/awesome-english/go/pimsleur/) - Aralıklı konuşma ve yanıt alıştırmalarıyla konuşma ve dinleme becerilerini geliştiren, öncelikle ses temelli kurslar.
+- [Numblr](https://yvoronoy.github.io/awesome-english/go/numblr/) - İngilizce sayıları dinleyerek öğrenmeye odaklanır. Tarihleri, saatleri, telefon numaralarını ve para miktarlarını dinleyip duyduklarınızı yazabilirsiniz. IELTS/TOEFL hazırlığı için de yararlıdır.
+
+## Konuşma
+
+Bu bölümde dil değişimi platformları, telaffuz uygulamaları ve konuşma pratiği yapabileceğiniz topluluklar yer alır.
+
+- [Tandem](https://yvoronoy.github.io/awesome-english/go/tandem/) - Ana dili İngilizce olan kişilerle yazılı, sesli ve görüntülü sohbet kurmanızı sağlayan dil değişimi uygulaması.
+- [HelloTalk](https://yvoronoy.github.io/awesome-english/go/hellotalk/) - Yazılı ve sesli mesajlarla ana dili İngilizce olan kişilerle dil pratiği yapmanızı sağlayan uygulama.
+- [Reddit r/Language_Exchange](https://yvoronoy.github.io/awesome-english/go/reddits-r-language-exchange/) - Konuşma pratiği için dil değişimi partnerleri bulabileceğiniz Reddit topluluğu.
+- [Discord Dil Öğrenme Sunucuları](https://yvoronoy.github.io/awesome-english/go/discord-language-learning-servers/) - Gerçek zamanlı konuşma pratiği yapmak için sesli sohbetlere katılabileceğiniz Discord toplulukları.
+- [Elsa Speak](https://yvoronoy.github.io/awesome-english/go/elsa-speak/) - Konuşmanıza ayrıntılı geri bildirim vererek telaffuzunuzu geliştirmenize yardımcı olan yapay zekâ destekli uygulama.
+- [TalkEnglish](https://yvoronoy.github.io/awesome-english/go/talkenglish/) - Akıcılığı geliştirmek için konuşma alıştırmaları ve sohbet konuları sunan site.
+- [Rachel's English](https://yvoronoy.github.io/awesome-english/go/rachels-english/) - Amerikan İngilizcesinde telaffuz ve anlaşılır konuşmaya odaklanan YouTube kanalı.
+- [BoldVoice](https://yvoronoy.github.io/awesome-english/go/boldvoice/) - Yapay zekâ ve gerçek eğitmenlerden anında geri bildirim sunarak daha anlaşılır konuşmanıza yardımcı olan aksan eğitimi uygulaması.
+- [Speak](https://yvoronoy.github.io/awesome-english/go/speak/) - Gerçek konuşma pratiği için sesli olarak konuşabileceğiniz yapay zekâ partneri.
+- [Speechling](https://yvoronoy.github.io/awesome-english/go/speechling/) - Cümlelerinizi kaydedip gerçek eğitmenlerden telaffuz geri bildirimi alabileceğiniz ücretsiz hizmet.
+
+## İzleme
 
 ### YouTube
 
-Watching YouTube helps learn English by providing exposure to authentic language, visual context, diverse content, subtitles, and opportunities for interactive learning.
+YouTube videoları; gerçek dil kullanımı, görsel bağlam, farklı içerikler ve altyazılar sayesinde İngilizce öğrenmeye yardımcı olur. Etkileşimli içerikler de öğrenme fırsatları sunar.
 
-- [English with Lucy](https://yvoronoy.github.io/awesome-english/go/english-with-lucy/) - One of the largest English-teaching channels, focused on pronunciation, vocabulary, and British English.
-- [TED-Ed](https://yvoronoy.github.io/awesome-english/go/ted-ed/) - Short, animated lessons on a huge range of topics, with transcripts for reading along.
-- [Learn English with Ronnie](https://yvoronoy.github.io/awesome-english/go/learn-english-with-ronnie/) - Provides humorous English video lessons with host Ronnie.
-- [BBC English Grammar](https://yvoronoy.github.io/awesome-english/go/bbc-english-grammar/) - Collection of short BBC videos explaining English grammar concepts.
-- [BBC English HowTo](https://yvoronoy.github.io/awesome-english/go/bbc-english-howto/) - Presents useful English phrases for immediate application in daily conversations.
-- [Anglo-Link](https://yvoronoy.github.io/awesome-english/go/anglo-link/) - Offers a variety of English grammar lessons and explanations.
-- [Daily Dictation](https://yvoronoy.github.io/awesome-english/go/daily-dictation/) - Short daily dictation exercises to sharpen listening comprehension.
-- [Learn English with Let's Talk](https://yvoronoy.github.io/awesome-english/go/learn-english-with-lets-talk/) - Experts explain how to handle various daily situations and what phrases to use.
-- [Learn English With TV Series](https://yvoronoy.github.io/awesome-english/go/learn-english-with-tv-series/) - Method to enhance listening comprehension using TV shows, movies, and talk shows.
-- [RealLife English](https://yvoronoy.github.io/awesome-english/go/reallife-english/) - Videos discussing various learning methods and the mindset required to embark on your English learning journey.
+- [English with Lucy](https://yvoronoy.github.io/awesome-english/go/english-with-lucy/) - Telaffuz, kelime dağarcığı ve Britanya İngilizcesine odaklanan büyük İngilizce öğretim kanallarından biri.
+- [TED-Ed](https://yvoronoy.github.io/awesome-english/go/ted-ed/) - Çok çeşitli konularda kısa, animasyonlu dersler sunar; metinleri takip ederek okuyabilirsiniz.
+- [Learn English with Ronnie](https://yvoronoy.github.io/awesome-english/go/learn-english-with-ronnie/) - Ronnie'nin sunduğu, mizahi anlatımlı İngilizce ders videoları.
+- [BBC English Grammar](https://yvoronoy.github.io/awesome-english/go/bbc-english-grammar/) - İngilizce dil bilgisi konularını açıklayan kısa BBC videoları.
+- [BBC English HowTo](https://yvoronoy.github.io/awesome-english/go/bbc-english-howto/) - Günlük konuşmalarda hemen kullanabileceğiniz yararlı İngilizce ifadeleri tanıtır.
+- [Anglo-Link](https://yvoronoy.github.io/awesome-english/go/anglo-link/) - Çeşitli İngilizce dil bilgisi dersleri ve açıklamaları sunar.
+- [Daily Dictation](https://yvoronoy.github.io/awesome-english/go/daily-dictation/) - Dinlediğini anlama becerisini geliştiren kısa günlük dikte alıştırmaları.
+- [Learn English with Let's Talk](https://yvoronoy.github.io/awesome-english/go/learn-english-with-lets-talk/) - Günlük durumlarla nasıl başa çıkılacağını ve hangi ifadelerin kullanılabileceğini açıklar.
+- [Learn English With TV Series](https://yvoronoy.github.io/awesome-english/go/learn-english-with-tv-series/) - Diziler, filmler ve talk show'lar aracılığıyla dinleme becerisini geliştirmeye yönelik bir yöntem.
+- [RealLife English](https://yvoronoy.github.io/awesome-english/go/reallife-english/) - İngilizce öğrenmeye başlamak için gereken yöntemleri ve yaklaşımı ele alan videolar.
 
-### Live TV Channels
+### Canlı TV Kanalları
 
-Watching live TV helps learn English by exposing viewers to real-time conversations, diverse accents, cultural context, and immediate vocabulary application, and you can watch TV in the background for deeper immersion into the language.
+Canlı televizyon izlemek; gerçek zamanlı konuşmalara, farklı aksanlara ve kültürel bağlama maruz kalmanızı sağlar. Televizyonu arka planda açık tutmak da dile daha fazla maruz kalmanıza yardımcı olabilir.
 
-- [ABC7 Eyewitness News](https://yvoronoy.github.io/awesome-english/go/abc7-eyewitness-news/) - TV station licensed to Los Angeles, California.
-- [ABC News](https://yvoronoy.github.io/awesome-english/go/abc-news/) - Live TV news channel from the American broadcaster.
-- [Bloomberg](https://yvoronoy.github.io/awesome-english/go/bloomberg/) - Business and markets TV channel based in New York.
-- [CBS News](https://yvoronoy.github.io/awesome-english/go/cbs-news/) - News division of the American TV and radio network CBS.
-- [KTLA 5](https://yvoronoy.github.io/awesome-english/go/ktla-5/) - TV station located in Los Angeles, California, United States.
+- [ABC7 Eyewitness News](https://yvoronoy.github.io/awesome-english/go/abc7-eyewitness-news/) - ABD'nin Kaliforniya eyaletindeki Los Angeles'ta yayın lisansı bulunan televizyon kanalı.
+- [ABC News](https://yvoronoy.github.io/awesome-english/go/abc-news/) - ABD'li yayın kuruluşunun canlı haber kanalı.
+- [Bloomberg](https://yvoronoy.github.io/awesome-english/go/bloomberg/) - New York merkezli iş dünyası ve finans piyasaları televizyon kanalı.
+- [CBS News](https://yvoronoy.github.io/awesome-english/go/cbs-news/) - ABD televizyon ve radyo ağı CBS'nin haber bölümü.
+- [KTLA 5](https://yvoronoy.github.io/awesome-english/go/ktla-5/) - ABD'nin Kaliforniya eyaletindeki Los Angeles'ta bulunan televizyon kanalı.
 
-### TV Talk Shows
+### TV Talk Show'ları
 
-TV talk shows help learn English by providing exposure to conversational language, diverse accents, and cultural references, while engaging viewers with entertaining discussions that enhance listening skills and vocabulary.
+TV talk show'ları; gündelik konuşma dilini, farklı aksanları ve kültürel göndermeleri eğlenceli sohbetlerle bir araya getirerek dinleme becerisini ve kelime dağarcığını geliştirmenize yardımcı olur.
 
-- [Jimmy Kimmel Live!](https://yvoronoy.github.io/awesome-english/go/jimmy-kimmel-live/) - Popular American late-night talk show featuring celebrity interviews.
-- [The Tonight Show Starring Jimmy Fallon](https://yvoronoy.github.io/awesome-english/go/the-tonight-show-starring-jimmy-fallon/) - American late-night talk show hosted by Jimmy Fallon on NBC.
-- [Late Night with Seth Meyers](https://yvoronoy.github.io/awesome-english/go/late-night-with-seth-meyers/) - American late-night talk show hosted by Seth Meyers on NBC.
-- [The Late Show with Stephen Colbert](https://yvoronoy.github.io/awesome-english/go/the-late-show-with-stephen-colbert/) - American late-night talk show by Stephen Colbert on CBS.
-- [The Daily Show](https://yvoronoy.github.io/awesome-english/go/the-daily-show/) - American late-night satirical news show on Comedy Central, hosted by a rotating team of correspondents with Jon Stewart anchoring Mondays.
+- [Jimmy Kimmel Live!](https://yvoronoy.github.io/awesome-english/go/jimmy-kimmel-live/) - Ünlülerle röportajların yer aldığı popüler bir Amerikan gece programı.
+- [The Tonight Show Starring Jimmy Fallon](https://yvoronoy.github.io/awesome-english/go/the-tonight-show-starring-jimmy-fallon/) - Jimmy Fallon'ın NBC'de sunduğu Amerikan gece programı.
+- [Late Night with Seth Meyers](https://yvoronoy.github.io/awesome-english/go/late-night-with-seth-meyers/) - Seth Meyers'ın NBC'de sunduğu Amerikan gece programı.
+- [The Late Show with Stephen Colbert](https://yvoronoy.github.io/awesome-english/go/the-late-show-with-stephen-colbert/) - Stephen Colbert'ın CBS'de sunduğu Amerikan gece programı.
+- [The Daily Show](https://yvoronoy.github.io/awesome-english/go/the-daily-show/) - Comedy Central'da yayımlanan, dönüşümlü sunucu ekibine sahip hicivli Amerikan gece haber programı. Pazartesi günleri Jon Stewart sunuculuk yapar.
 
-### Tech Shows
+### Teknoloji Programları
 
-Tech shows help learn English by offering insights into industry-specific vocabulary, concepts, and trends while featuring expert discussions that enhance comprehension and listening skills in a relevant context.
+Teknoloji programları; sektöre özgü kelimeleri, kavramları ve eğilimleri öğrenirken uzman tartışmalarını takip ederek dinleme becerinizi geliştirmenize yardımcı olur.
 
-- [Marques Brownlee MKBHD](https://yvoronoy.github.io/awesome-english/go/marques-brownlee-mkbhd/) - Offers in-depth tech reviews and discussions in clear English, focusing on consumer electronics and emerging trends.
-- [Linus Tech Tips](https://yvoronoy.github.io/awesome-english/go/linus-tech-tips/) - Provides tech reviews, build guides, and technology discussions in straightforward language.
-- [Unbox Therapy](https://yvoronoy.github.io/awesome-english/go/unbox-therapy/) - Showcases unboxing and reviews of the latest gadgets in conversational and clear English.
-- [TechLinked](https://yvoronoy.github.io/awesome-english/go/techlinked/) - Offers bite-sized tech news and updates with humor and clarity.
-- [BBC Click](https://yvoronoy.github.io/awesome-english/go/bbc-click/) - The BBC's flagship technology program.
-- [Sky News Swipe](https://yvoronoy.github.io/awesome-english/go/sky-news-swipe/) - Sky News's tech show.
+- [Marques Brownlee (MKBHD)](https://yvoronoy.github.io/awesome-english/go/marques-brownlee-mkbhd/) - Tüketici elektroniği ve yeni teknolojiler üzerine anlaşılır İngilizceyle ayrıntılı incelemeler ve tartışmalar sunar.
+- [Linus Tech Tips](https://yvoronoy.github.io/awesome-english/go/linus-tech-tips/) - Teknoloji incelemeleri, bilgisayar toplama rehberleri ve teknoloji tartışmaları sunar.
+- [Unbox Therapy](https://yvoronoy.github.io/awesome-english/go/unbox-therapy/) - Yeni çıkan cihazların kutu açılışlarını ve incelemelerini gündelik, anlaşılır İngilizceyle sunar.
+- [TechLinked](https://yvoronoy.github.io/awesome-english/go/techlinked/) - Mizah içeren kısa teknoloji haberleri ve güncellemeleri.
+- [BBC Click](https://yvoronoy.github.io/awesome-english/go/bbc-click/) - BBC'nin önde gelen teknoloji programı.
+- [Sky News Swipe](https://yvoronoy.github.io/awesome-english/go/sky-news-swipe/) - Sky News'in teknoloji programı.
 
-## Reading
+## Okuma
 
-### News
-Reading is a core skill for learning English, as it builds vocabulary, enhances grammar, and improves comprehension, providing exposure to diverse writing styles and contexts that are essential for mastering the language.
+Okuma, kelime dağarcığını geliştirdiği, dil bilgisini pekiştirdiği ve farklı yazı biçimlerine maruz bıraktığı için İngilizce öğreniminin temel becerilerindendir.
 
-- [Breaking News English](https://yvoronoy.github.io/awesome-english/go/breaking-news-english/) - Listen to, read, and write about breaking news.
-- [News in Levels](https://yvoronoy.github.io/awesome-english/go/news-in-levels/) - Current news rewritten at three difficulty levels for graded reading practice.
-- [Short Stories](https://yvoronoy.github.io/awesome-english/go/short-stories/) - Bite-sized fiction for everyday reading practice.
-- [Reading Room](https://yvoronoy.github.io/awesome-english/go/reading-room/) - Links to newspapers, magazines, books, and libraries for reading practice.
-- [Reading Comprehension Exercises](https://yvoronoy.github.io/awesome-english/go/reading-comprehension-exercises/) - Provides texts with exercises at three different difficulty levels.
-- [IMDB scripts](https://yvoronoy.github.io/awesome-english/go/imdb-scripts/) - The internet movie script database.
-- [Today I Found Out](https://yvoronoy.github.io/awesome-english/go/today-i-found-out/) - Daily interesting fact articles from various authors.
-- [Scripps News](https://yvoronoy.github.io/awesome-english/go/scripps-news/) - Short news with transcriptions (formerly Newsy).
-- [Engoo](https://yvoronoy.github.io/awesome-english/go/engoo/) - Daily news for English learners.
+### Haberler
 
-### Books
+- [Breaking News English](https://yvoronoy.github.io/awesome-english/go/breaking-news-english/) - Güncel haberleri dinleyin, okuyun ve haberler hakkında yazın.
+- [News in Levels](https://yvoronoy.github.io/awesome-english/go/news-in-levels/) - Güncel haberleri üç farklı zorluk seviyesinde yeniden sunarak seviyelendirilmiş okuma pratiği sağlar.
+- [Short Stories](https://yvoronoy.github.io/awesome-english/go/short-stories/) - Günlük okuma pratiği için kısa öyküler.
+- [Reading Room](https://yvoronoy.github.io/awesome-english/go/reading-room/) - Gazetelere, dergilere, kitaplara ve kütüphanelere bağlantılar.
+- [Reading Comprehension Exercises](https://yvoronoy.github.io/awesome-english/go/reading-comprehension-exercises/) - Üç farklı zorluk seviyesinde metinler ve alıştırmalar sunar.
+- [IMSDb – Film Senaryoları](https://yvoronoy.github.io/awesome-english/go/imdb-scripts/) - İnternet film senaryoları veri tabanı.
+- [Today I Found Out](https://yvoronoy.github.io/awesome-english/go/today-i-found-out/) - Farklı yazarların hazırladığı ilginç bilgiler hakkında günlük yazılar.
+- [Scripps News](https://yvoronoy.github.io/awesome-english/go/scripps-news/) - Eskiden Newsy olarak bilinen, haberlerin metin dökümlerini de sunan kısa haber kaynağı.
+- [Engoo](https://yvoronoy.github.io/awesome-english/go/engoo/) - İngilizce öğrenenler için günlük haberler.
 
-These books vary in complexity and genre, allowing learners to choose according to their interests and reading levels while improving their English skills effectively.
+### Kitaplar
 
-- [Harry Potter Series](https://yvoronoy.github.io/awesome-english/go/harry-potter-series/) - Popular book series with gradually increasing language complexity, suitable for learners.
-- [Pride and Prejudice](https://yvoronoy.github.io/awesome-english/go/pride-and-prejudice/) - Classic novel offering rich insights into English literature and culture; challenging vocabulary makes it suitable for advanced learners.
-- [Animal Farm](https://yvoronoy.github.io/awesome-english/go/animal-farm/) - Short allegorical novella using simple language to convey complex themes about power and society.
+Bu kitaplar farklı zorluk seviyeleri ve türler sunar. İlgi alanınıza ve okuma seviyenize uygun kitapları seçerek İngilizcenizi geliştirebilirsiniz.
 
-## Writing
+- [Harry Potter Serisi](https://yvoronoy.github.io/awesome-english/go/harry-potter-series/) - Dil seviyesi kitaplar ilerledikçe kademeli olarak zorlaşan popüler bir seri.
+- [Gurur ve Önyargı (Pride and Prejudice)](https://yvoronoy.github.io/awesome-english/go/pride-and-prejudice/) - İngiliz edebiyatı ve kültürüne dair zengin bilgiler sunan klasik roman. Zorlayıcı kelime dağarcığı nedeniyle ileri düzey öğrenenler için uygundur.
+- [Hayvan Çiftliği (Animal Farm)](https://yvoronoy.github.io/awesome-english/go/animal-farm/) - Güç ve toplum gibi karmaşık temaları sade bir dille anlatan kısa alegorik roman.
 
-Writing is a fundamental skill in English learning that helps reinforce vocabulary, grammar, and expression. Regular practice is essential for improvement.
+## Yazma
 
-### Writing Tools 🛠️
+Yazma, kelime dağarcığını, dil bilgisini ve kendini ifade etme becerisini pekiştiren temel bir İngilizce öğrenme becerisidir. Gelişmek için düzenli pratik yapmak önemlidir.
 
-#### Practice Platforms
-- [750 Words](https://yvoronoy.github.io/awesome-english/go/750-words/) - Encourages daily private writing through gamification and statistics tracking.
-- [Write & Improve by Cambridge](https://yvoronoy.github.io/awesome-english/go/write-and-improve-by-cambridge/) - Offers daily writing tasks with automated feedback at various proficiency levels.
-- [ThoughtCo's ESL Writing Exercises](https://yvoronoy.github.io/awesome-english/go/thoughtcos-esl-writing-exercises/) - Provides various writing prompts and structured exercises.
+### Yazma Araçları 🛠️
 
-#### AI Writing Assistants 🤖
-- [Hemingway Editor](https://yvoronoy.github.io/awesome-english/go/hemingway-editor/) - Helps simplify and clarify your writing by identifying complex sentences and common errors.
+#### Pratik Platformları
 
-### Writing Tips 💡
-- Practice writing for at least 15 minutes every day
-- Start with simple topics and gradually increase complexity
-- Read your writing aloud to catch errors and improve flow
-- Use AI tools for immediate feedback, but don't rely on them exclusively
-- Keep a journal in English to track your progress
-- Join writing communities or find a writing partner for feedback
+- [750 Words](https://yvoronoy.github.io/awesome-english/go/750-words/) - Oyunlaştırma ve istatistik takibiyle her gün kişisel yazı yazmayı teşvik eder.
+- [Cambridge Write & Improve](https://yvoronoy.github.io/awesome-english/go/write-and-improve-by-cambridge/) - Farklı yeterlilik seviyelerinde günlük yazma görevleri ve otomatik geri bildirim sunar.
+- [ThoughtCo ESL Yazma Alıştırmaları](https://yvoronoy.github.io/awesome-english/go/thoughtcos-esl-writing-exercises/) - Çeşitli yazma konuları ve yapılandırılmış alıştırmalar sunar.
 
-## AI-Powered English Learning
+#### Yapay Zekâ Destekli Yazma Asistanları 🤖
 
-Large Language Models (LLMs) can be powerful tools to supplement your English learning. Below are some recommended LLMs and practical ways to integrate them into your study routine.
+- [Hemingway Editor](https://yvoronoy.github.io/awesome-english/go/hemingway-editor/) - Karmaşık cümleleri ve yaygın hataları belirleyerek yazınızı daha sade ve anlaşılır hâle getirmenize yardımcı olur.
 
-### Recommended LLMs
-- [ChatGPT by OpenAI](https://yvoronoy.github.io/awesome-english/go/chatgpt-by-openai/) - Widely-used conversational AI for interactive practice, writing assistance, and content generation.
-- [Gemini by Google](https://yvoronoy.github.io/awesome-english/go/gemini-by-google/) - Multimodal AI from Google, useful for conversation, text understanding, and generating diverse content.
-- [Claude by Anthropic](https://yvoronoy.github.io/awesome-english/go/claude-by-anthropic/) - AI assistant designed for helpful conversations, text analysis, and supporting writing tasks.
-- [Grok AI](https://yvoronoy.github.io/awesome-english/go/grok-ai/) - Conversational AI that can help with understanding current topics and generating text for language practice.
+### Yazma İpuçları 💡
 
-### Practical Applications
-- Interactive Dialogue & Role-Play: Engage in text or voice conversations; simulate specific scenarios (job interviews, client meetings, daily tasks) or ask the AI to adopt different personas for varied practice.
-- Targeted Writing Feedback & Enhancement: Paste your written English (emails, essays) to get specific feedback on grammar, clarity, and tone; request rephrasing options or help brainstorming structure.
-- Applied Grammar Exploration: Illustrate grammar rules by requesting example sentences for specific structures; use for quick error checking in your own sentences (verify complex AI explanations with trusted sources).
-- Reading Comprehension Assistance: Simplify complex texts by requesting summaries, level-appropriate explanations of difficult parts, or extraction of key information like main arguments or jargon definitions.
-- Custom Pronunciation Practice Texts: Generate sentences, short dialogues, or tongue twisters focusing on challenging English sounds (e.g., 'th' sound, 'r' vs. 'l') for targeted oral repetition.
-- Personalized Study Plan & Goal Setting: Outline a weekly study schedule or break down large learning objectives into manageable steps, tailored to your specific goals and current proficiency level.
+- Her gün en az 15 dakika yazma pratiği yapın.
+- Basit konularla başlayıp zamanla zorluk seviyesini artırın.
+- Hataları fark etmek ve metnin akışını iyileştirmek için yazdıklarınızı sesli okuyun.
+- Yapay zekâ araçlarından hızlı geri bildirim almak için yararlanın, ancak yalnızca onlara güvenmeyin.
+- Gelişiminizi takip etmek için İngilizce günlük tutun.
+- Geri bildirim almak amacıyla yazma topluluklarına katılın veya bir yazma partneri bulun.
 
-## Grammar
+## Yapay Zekâ Destekli İngilizce Öğrenimi
 
-Understanding grammar is essential for mastering English. These resources provide structured learning and practice opportunities.
+Büyük dil modelleri (LLM'ler), İngilizce öğreniminizi destekleyen güçlü araçlar olabilir. Aşağıda önerilen bazı modelleri ve onları çalışma rutininize katmanın pratik yollarını bulabilirsiniz.
 
-### Learning Resources 📖
-- [Book: English Grammar in Use by Raymond Murphy][murphy-grammar-url] - Best-selling grammar book for learners of English.
-- [Ego4u](https://yvoronoy.github.io/awesome-english/go/ego4u/) - Comprehensive grammar lessons and interactive tests.
-- [My English Pages](https://yvoronoy.github.io/awesome-english/go/my-english-pages/) - Detailed grammar reference guide with examples and exercises.
-- [English Club](https://yvoronoy.github.io/awesome-english/go/english-club/) - Clear explanations of English grammar rules with practice activities.
+### Önerilen Büyük Dil Modelleri
 
-## Vocabulary
+- [OpenAI ChatGPT](https://yvoronoy.github.io/awesome-english/go/chatgpt-by-openai/) - Etkileşimli pratik, yazma desteği ve içerik üretimi için yaygın olarak kullanılan sohbet tabanlı yapay zekâ.
+- [Google Gemini](https://yvoronoy.github.io/awesome-english/go/gemini-by-google/) - Sohbet, metin anlama ve farklı türlerde içerik üretimi için yararlı, çok modlu bir yapay zekâ.
+- [Anthropic Claude](https://yvoronoy.github.io/awesome-english/go/claude-by-anthropic/) - Yararlı sohbetler, metin analizi ve yazma görevlerini desteklemek üzere tasarlanmış yapay zekâ asistanı.
+- [Grok AI](https://yvoronoy.github.io/awesome-english/go/grok-ai/) - Güncel konuları anlamaya ve dil pratiği için metin oluşturmaya yardımcı olabilen sohbet tabanlı yapay zekâ.
 
-Building a strong vocabulary is crucial for effective communication. These resources help expand your word knowledge systematically.
+### Pratik Kullanım Alanları
 
-### Word Lists and Resources 📑
-- [Ogden's Basic English](https://yvoronoy.github.io/awesome-english/go/ogdens-basic-english/) - List of 850 essential English words forming the foundation of the language; basis for Simple English Wikipedia.
-- [Book: Verbal Advantage by Charles Harrington Elster](https://yvoronoy.github.io/awesome-english/go/book-verbal-advantage-by-charles-harrington-elster/) - Advanced vocabulary building with detailed explanations and examples.
-- [Tatoeba](https://yvoronoy.github.io/awesome-english/go/tatoeba/) - Open database of millions of example sentences with translations and audio.
+- **Etkileşimli Diyalog ve Rol Yapma:** Metin veya ses yoluyla sohbet edin; iş görüşmeleri, müşteri toplantıları ve günlük işler gibi durumları canlandırın ya da yapay zekâdan farklı karakterlere bürünmesini isteyin.
+- **Hedefli Yazma Geri Bildirimi ve İyileştirme:** İngilizce e-posta veya denemelerinizi paylaşarak dil bilgisi, açıklık ve üslup hakkında belirli geri bildirimler isteyin. Alternatif ifadeler veya metin yapısı için fikirler de alın.
+- **Dil Bilgisini Uygulamalı İnceleme:** Belirli dil bilgisi yapılarına örnek cümleler isteyin. Kendi cümlelerinizdeki hataları kontrol etmek için kullanın; karmaşık açıklamaları güvenilir kaynaklardan doğrulayın.
+- **Okuduğunu Anlama Desteği:** Karmaşık metinleri özetletin, zor bölümleri seviyenize uygun biçimde açıklatın veya ana fikirler ve teknik terimlerin tanımları gibi bilgileri çıkartın.
+- **Kişiye Özel Telaffuz Metinleri:** Özellikle zorlandığınız İngilizce seslere odaklanan cümleler, kısa diyaloglar veya tekerlemeler oluşturun. Örneğin “th” sesi ya da “r” ve “l” ayrımı üzerine çalışın.
+- **Kişisel Çalışma Planı ve Hedef Belirleme:** Seviyenize ve hedeflerinize uygun haftalık çalışma programı hazırlatın veya büyük hedefleri yönetilebilir küçük adımlara bölün.
 
-### Study Tools 🎯
-#### Flashcard Apps
-- [Anki][anki-url] - Flashcard app using spaced repetition for efficient vocabulary memorization.
-- [Memrise](https://yvoronoy.github.io/awesome-english/go/memrise/) - User-created vocabulary lists with mnemonics and spaced repetition.
-- [Quizlet](https://yvoronoy.github.io/awesome-english/go/quizlet/) - Create and study flashcard sets with various learning modes.
-- [KaChiKa](https://yvoronoy.github.io/awesome-english/go/kachika/) - Snap a photo of any object to extract English vocabulary in real-life context, with FSRS-based flashcards.
-- [Sink In](https://yvoronoy.github.io/awesome-english/go/sink-in/) - Phrasal verbs as a system. The app has animated illustrations and flashcards
+## Dil Bilgisi
 
-#### Dictionary Resources 📚
-- [Forvo](https://yvoronoy.github.io/awesome-english/go/forvo/) - Native speaker pronunciations of words from different English-speaking regions.
-- [Cambridge Dictionary](https://yvoronoy.github.io/awesome-english/go/cambridge-dictionary/) - Learner-friendly definitions, audio pronunciations, and example sentences from Cambridge.
-- [Dictionary.com](https://yvoronoy.github.io/awesome-english/go/dictionary-com/) - Comprehensive dictionary with definitions, pronunciations, and example sentences.
-- [Thesaurus.com](https://yvoronoy.github.io/awesome-english/go/thesaurus-com/) - Find synonyms and antonyms to expand your vocabulary.
-- [Oxford Learner's Dictionaries](https://yvoronoy.github.io/awesome-english/go/oxford-learners-dictionaries/) - Learner-friendly definitions with clear examples and pronunciations.
-- [Linguee](https://yvoronoy.github.io/awesome-english/go/linguee/) - Context-rich dictionary with real-world usage examples.
-- [ReversoContext](https://yvoronoy.github.io/awesome-english/go/reversocontext/) - See words and phrases used in authentic contexts.
-- [Word Orb](https://yvoronoy.github.io/awesome-english/go/word-orb/) - 162,253 English words with IPA pronunciation, etymology, part of speech, and 601,143 translations across 47 languages. Free anonymous tier, HTTPS, CORS enabled — also usable as a programmatic dictionary API.
-- [Pronounce](https://yvoronoy.github.io/awesome-english/go/pronounce/) - Pronunciation dictionary for tech and developer jargon (kubectl, nginx, GIF, JSON) — 1,650+ entries with IPA, audio, and source citations, plus a quiz mode. Free, no install; useful for non-native engineers.
+İngilizcede ustalaşmak için dil bilgisini anlamak önemlidir. Bu kaynaklar düzenli öğrenme ve pratik yapma olanağı sunar.
 
-## Tools
+### Öğrenme Kaynakları 📖
 
-These tools enhance your English learning experience with interactive features and practical applications.
+- [Raymond Murphy – English Grammar in Use][murphy-grammar-url] - İngilizce öğrenenler için çok satan dil bilgisi kitabı.
+- [Ego4u](https://yvoronoy.github.io/awesome-english/go/ego4u/) - Kapsamlı dil bilgisi dersleri ve etkileşimli testler.
+- [My English Pages](https://yvoronoy.github.io/awesome-english/go/my-english-pages/) - Örnekler ve alıştırmalar içeren ayrıntılı bir dil bilgisi başvuru kaynağı.
+- [English Club](https://yvoronoy.github.io/awesome-english/go/english-club/) - Alıştırmalarla desteklenen, İngilizce dil bilgisi kurallarına ilişkin açık ve anlaşılır açıklamalar.
 
-### Learning Enhancement Tools 🎯
-- [Play Phrase](https://yvoronoy.github.io/awesome-english/go/play-phrase/) - Search and play specific phrases from movies to learn natural usage.
-- [Language Reactor](https://yvoronoy.github.io/awesome-english/go/language-reactor/) - Browser extension adding dual subtitles and a hover dictionary to Netflix and YouTube.
-- [LingQ](https://yvoronoy.github.io/awesome-english/go/lingq/) - Read and listen to real content with instant word lookup and built-in vocabulary tracking.
-- [Lyrics Training](https://yvoronoy.github.io/awesome-english/go/lyrics-training/) - Learn English through music and song lyrics with interactive exercises.
-- [Grammarly](https://yvoronoy.github.io/awesome-english/go/grammarly/) - Writing assistant for checking grammar, spelling, and style in real-time.
-- [BeLikeNative](https://yvoronoy.github.io/awesome-english/go/belikenative/) - L1-aware grammar and style checker that helps non-native speakers write natural English. Available as a Chrome extension.
-- [YouGlish](https://yvoronoy.github.io/awesome-english/go/youglish/) - Learn word pronunciation from real-world videos.
-- [Visuwords](https://yvoronoy.github.io/awesome-english/go/visuwords/) - Visual dictionary showing word relationships and connections.
+## Kelime Dağarcığı
 
-### Assessment Tools 📊
-- [Test Your Vocab](https://yvoronoy.github.io/awesome-english/go/test-your-vocab/) - Estimate your English vocabulary size.
+Güçlü bir kelime dağarcığı, etkili iletişim için çok önemlidir. Bu kaynaklar kelime bilginizi sistemli biçimde geliştirmenize yardımcı olur.
 
-## Exercises and Tests
+### Kelime Listeleri ve Kaynaklar 📑
 
-Regular practice and assessment help track your progress and identify areas for improvement.
+- [Ogden's Basic English](https://yvoronoy.github.io/awesome-english/go/ogdens-basic-english/) - Dilin temelini oluşturan 850 temel İngilizce kelimenin listesi; Simple English Wikipedia'nın da temelini oluşturur.
+- [Charles Harrington Elster – Verbal Advantage](https://yvoronoy.github.io/awesome-english/go/book-verbal-advantage-by-charles-harrington-elster/) - Ayrıntılı açıklamalar ve örneklerle ileri düzey kelime dağarcığını geliştirir.
+- [Tatoeba](https://yvoronoy.github.io/awesome-english/go/tatoeba/) - Çeviriler ve ses kayıtları içeren, milyonlarca örnek cümleden oluşan açık veri tabanı.
 
-### Practice Platforms 🎯
-- [English Test Store](https://yvoronoy.github.io/awesome-english/go/english-test-store/) - Comprehensive collection of English proficiency tests.
-- [Duolingo](https://yvoronoy.github.io/awesome-english/go/duolingo/) - Gamified language learning platform with daily exercises and progress tracking.
-- [TED](https://yvoronoy.github.io/awesome-english/go/ted/) - A vast library of talks with interactive transcripts, ideal for authentic listening practice.
-- [The Daily Lesson](https://yvoronoy.github.io/awesome-english/go/the-daily-lesson/) - 365 daily 5-minute English lessons across 4 tracks (learn / grow / teach / trivia) with an AI teacher (Kelly). Runs a live vocabulary-retention pilot with Cohen's d measurement at [/pilot](https://yvoronoy.github.io/awesome-english/go/pilot/). Free 7-day trial.
+### Çalışma Araçları 🎯
 
-### Test Preparation Resources 📚
-#### General English Tests
-- [Cambridge English](https://yvoronoy.github.io/awesome-english/go/cambridge-english/) - Official practice tests for various Cambridge English qualifications.
-- [IELTS Practice](https://yvoronoy.github.io/awesome-english/go/ielts-practice/) - Free IELTS practice materials.
-- [TOEFL Resources](https://yvoronoy.github.io/awesome-english/go/toefl-resources/) - Official TOEFL iBT preparation resources.
+#### Bilgi Kartı Uygulamaları
 
-#### Skill-Specific Practice
-- Listening: Daily dictation exercises and audio comprehension tests
-- Speaking: Pronunciation drills and conversation practice
-- Reading: Timed reading comprehension exercises
-- Writing: Essay writing practice with feedback
+- [Anki][anki-url] - Aralıklı tekrar yöntemiyle kelimeleri verimli biçimde ezberlemeye yardımcı olan bilgi kartı uygulaması.
+- [Memrise](https://yvoronoy.github.io/awesome-english/go/memrise/) - Kullanıcıların oluşturduğu kelime listeleri, hatırlama yöntemleri ve aralıklı tekrar sunar.
+- [Quizlet](https://yvoronoy.github.io/awesome-english/go/quizlet/) - Farklı çalışma modlarıyla bilgi kartı setleri oluşturup çalışmanızı sağlar.
+- [KaChiKa](https://yvoronoy.github.io/awesome-english/go/kachika/) - Nesnelerin fotoğrafını çekerek gerçek yaşam bağlamında İngilizce kelimeler çıkarmanızı sağlar; FSRS tabanlı bilgi kartları kullanır.
+- [Sink In](https://yvoronoy.github.io/awesome-english/go/sink-in/) - Deyimsel fiilleri sistemli biçimde öğrenmeye odaklanır; animasyonlu çizimler ve bilgi kartları sunar.
 
-## Online Classes
+#### Sözlük Kaynakları 📚
 
-Find the right learning environment with these online platforms offering various teaching styles and formats.
+- [Forvo](https://yvoronoy.github.io/awesome-english/go/forvo/) - İngilizcenin farklı bölgelerinde konuşan kişilerin kelime telaffuzlarını dinleyin.
+- [Cambridge Dictionary](https://yvoronoy.github.io/awesome-english/go/cambridge-dictionary/) - Öğrenenlere uygun tanımlar, sesli telaffuzlar ve örnek cümleler sunar.
+- [Dictionary.com](https://yvoronoy.github.io/awesome-english/go/dictionary-com/) - Tanımlar, telaffuzlar ve örnek cümleler içeren kapsamlı sözlük.
+- [Thesaurus.com](https://yvoronoy.github.io/awesome-english/go/thesaurus-com/) - Kelime dağarcığınızı genişletmek için eş ve zıt anlamlı kelimeler bulun.
+- [Oxford Learner's Dictionaries](https://yvoronoy.github.io/awesome-english/go/oxford-learners-dictionaries/) - Açık örnekler ve telaffuzlarla öğrenenlere uygun sözlükler.
+- [Linguee](https://yvoronoy.github.io/awesome-english/go/linguee/) - Gerçek kullanım örnekleriyle bağlam içinde kelime arama olanağı sunar.
+- [Reverso Context](https://yvoronoy.github.io/awesome-english/go/reversocontext/) - Kelime ve ifadelerin gerçek bağlamlarda nasıl kullanıldığını gösterir.
+- [Word Orb](https://yvoronoy.github.io/awesome-english/go/word-orb/) - IPA telaffuzu, köken bilgisi, sözcük türü ve 47 dilde 601.143 çeviri içeren 162.253 İngilizce kelime. Ücretsiz anonim kullanım seçeneği vardır; HTTPS ve CORS desteği sayesinde programatik sözlük API'si olarak da kullanılabilir.
+- [Pronounce](https://yvoronoy.github.io/awesome-english/go/pronounce/) - kubectl, nginx, GIF ve JSON gibi teknoloji ve yazılım terimleri için telaffuz sözlüğü. IPA gösterimi, ses kayıtları, kaynak atıfları ve test modu içeren 1.650'den fazla madde sunar. Ücretsizdir ve kurulum gerektirmez; özellikle ana dili İngilizce olmayan yazılım geliştiriciler için yararlıdır.
 
-### One-on-One Tutoring 👤
-- [Preply](https://yvoronoy.github.io/awesome-english/go/preply/) - Connect with professional tutors for personalized English lessons tailored to your needs.
-- [iTalki](https://yvoronoy.github.io/awesome-english/go/italki/) - Find language exchange partners and professional teachers for one-on-one lessons.
-- [Verbling](https://yvoronoy.github.io/awesome-english/go/verbling/) - Book lessons with experienced teachers, featuring integrated video chat and lesson materials.
+## Araçlar
 
-### Group Classes 👥
-- [Lingoda](https://yvoronoy.github.io/awesome-english/go/lingoda/) - Live group classes with native speakers, flexible scheduling, and structured curriculum.
-- [English Central](https://yvoronoy.github.io/awesome-english/go/english-central/) - Video-based English lessons with pronunciation feedback.
+Bu araçlar, etkileşimli özellikler ve pratik uygulamalarla İngilizce öğrenme deneyiminizi geliştirir.
 
-## FAQ or Common Questions
+### Öğrenmeyi Destekleyen Araçlar 🎯
 
-Answers to frequently asked questions about English learning, curated from popular discussion forums.
+- [Play Phrase](https://yvoronoy.github.io/awesome-english/go/play-phrase/) - Doğal kullanımı öğrenmek için filmlerdeki belirli ifadeleri arayıp dinleyin.
+- [Language Reactor](https://yvoronoy.github.io/awesome-english/go/language-reactor/) - Netflix ve YouTube'a çift altyazı ve üzerine gelince açılan sözlük ekleyen tarayıcı eklentisi.
+- [LingQ](https://yvoronoy.github.io/awesome-english/go/lingq/) - Gerçek içerikleri okuyup dinlemenizi, kelimeleri anında aramanızı ve kelime öğreniminizi takip etmenizi sağlar.
+- [Lyrics Training](https://yvoronoy.github.io/awesome-english/go/lyrics-training/) - Etkileşimli alıştırmalarla müzik ve şarkı sözleri üzerinden İngilizce öğretir.
+- [Grammarly](https://yvoronoy.github.io/awesome-english/go/grammarly/) - Dil bilgisi, yazım ve üslubu gerçek zamanlı kontrol etmeye yardımcı olan yazma asistanı.
+- [BeLikeNative](https://yvoronoy.github.io/awesome-english/go/belikenative/) - Ana dili İngilizce olmayanların daha doğal yazmasına yardımcı olan, ana dil farkındalığına sahip dil bilgisi ve üslup denetleyicisi. Chrome eklentisi olarak kullanılabilir.
+- [YouGlish](https://yvoronoy.github.io/awesome-english/go/youglish/) - Gerçek videolardan örneklerle kelimelerin telaffuzunu öğrenin.
+- [Visuwords](https://yvoronoy.github.io/awesome-english/go/visuwords/) - Kelimeler arasındaki ilişkileri ve bağlantıları görsel olarak gösteren sözlük.
 
-- [How one user learned 10,000 words](https://yvoronoy.github.io/awesome-english/go/how-one-user-learned-10-000-words/) - A user's journey to mastering 10,000 Korean words over three years.
-- [How to learn a language](https://yvoronoy.github.io/awesome-english/go/how-to-learn-a-language/) - Effective methods for future language learners.
-- [How can I improve my English listening skills?](https://yvoronoy.github.io/awesome-english/go/how-can-i-improve-my-english-listening-skills/) - Tips for enhancing understanding of spoken English.
-- [How can I learn to speak English well in a non-English environment?](https://yvoronoy.github.io/awesome-english/go/how-can-i-learn-to-speak-english-well-in-a-non-english/) - Strategies for practicing English outside of English-speaking contexts.
-- [How can I make significant improvements to my spoken English in one month?](https://yvoronoy.github.io/awesome-english/go/how-can-i-make-significant-improvements-to-my-spoken/) - Actionable steps for quick progress in spoken English.
-- [Are English-speaking courses helpful?](https://yvoronoy.github.io/awesome-english/go/are-english-speaking-courses-helpful/) - Discussion on the effectiveness of English-speaking courses.
+### Değerlendirme Araçları 📊
 
-## Contribute
+- [Test Your Vocab](https://yvoronoy.github.io/awesome-english/go/test-your-vocab/) - İngilizce kelime dağarcığınızın büyüklüğünü tahmin eder.
 
-Help improve this list! Read the [contribution guidelines](contributing.md) first.
+## Alıştırmalar ve Testler
 
-This awesome list is maintained with ❤️ for the English learning community.
+Düzenli pratik ve değerlendirme, ilerlemenizi takip etmenize ve geliştirmeniz gereken alanları belirlemenize yardımcı olur.
+
+### Pratik Platformları 🎯
+
+- [English Test Store](https://yvoronoy.github.io/awesome-english/go/english-test-store/) - İngilizce yeterlilik testlerinden oluşan kapsamlı bir koleksiyon.
+- [Duolingo](https://yvoronoy.github.io/awesome-english/go/duolingo/) - Günlük alıştırmalar ve ilerleme takibi sunan, oyunlaştırılmış dil öğrenme platformu.
+- [TED](https://yvoronoy.github.io/awesome-english/go/ted/) - Etkileşimli konuşma metinleri içeren geniş bir konuşma arşivi; gerçek İngilizceyi dinleyerek pratik yapmak için idealdir.
+- [The Daily Lesson](https://yvoronoy.github.io/awesome-english/go/the-daily-lesson/) - Dört başlıkta (öğren, geliş, öğret, genel kültür) her biri beş dakikalık 365 günlük İngilizce dersi ve Kelly adlı yapay zekâ öğretmeni sunar. `/pilot` adresinde Cohen's d ölçümü kullanan, kelime kalıcılığına yönelik canlı bir pilot uygulaması yürütür. Yedi günlük ücretsiz deneme sunar.
+
+### Sınav Hazırlık Kaynakları 📚
+
+#### Genel İngilizce Sınavları
+
+- [Cambridge English](https://yvoronoy.github.io/awesome-english/go/cambridge-english/) - Çeşitli Cambridge English yeterlilik sınavları için resmî deneme testleri.
+- [IELTS Practice](https://yvoronoy.github.io/awesome-english/go/ielts-practice/) - Ücretsiz IELTS hazırlık materyalleri.
+- [TOEFL Resources](https://yvoronoy.github.io/awesome-english/go/toefl-resources/) - Resmî TOEFL iBT hazırlık kaynakları.
+
+#### Beceriye Özel Pratik
+
+- **Dinleme:** Günlük dikte alıştırmaları ve dinlediğini anlama testleri.
+- **Konuşma:** Telaffuz alıştırmaları ve sohbet pratiği.
+- **Okuma:** Süre tutularak yapılan okuduğunu anlama alıştırmaları.
+- **Yazma:** Geri bildirim eşliğinde deneme yazma pratiği.
+
+## Çevrim İçi Dersler
+
+Farklı öğretim yöntemleri ve ders biçimleri sunan bu platformlarla size uygun öğrenme ortamını bulun.
+
+### Bire Bir Özel Ders 👤
+
+- [Preply](https://yvoronoy.github.io/awesome-english/go/preply/) - İhtiyaçlarınıza göre kişiselleştirilmiş İngilizce dersleri için profesyonel öğretmenlerle bağlantı kurun.
+- [iTalki](https://yvoronoy.github.io/awesome-english/go/italki/) - Bire bir dersler için dil değişimi partnerleri ve profesyonel öğretmenler bulun.
+- [Verbling](https://yvoronoy.github.io/awesome-english/go/verbling/) - Entegre görüntülü sohbet ve ders materyalleri sunan, deneyimli öğretmenlerle ders ayarlama platformu.
+
+### Grup Dersleri 👥
+
+- [Lingoda](https://yvoronoy.github.io/awesome-english/go/lingoda/) - Ana dili İngilizce olan eğitmenlerle canlı grup dersleri, esnek program ve yapılandırılmış müfredat sunar.
+- [English Central](https://yvoronoy.github.io/awesome-english/go/english-central/) - Telaffuz geri bildirimi sunan video tabanlı İngilizce dersleri.
+
+## Sık Sorulan Sorular
+
+Popüler tartışma forumlarından derlenen, İngilizce öğrenmeyle ilgili sık sorulan soruların yanıtları.
+
+- [Bir kullanıcının 10.000 kelime öğrenme hikâyesi](https://yvoronoy.github.io/awesome-english/go/how-one-user-learned-10-000-words/) - Bir kullanıcının üç yıl içinde 10.000 Korece kelime öğrenme yolculuğu.
+- [Bir dil nasıl öğrenilir?](https://yvoronoy.github.io/awesome-english/go/how-to-learn-a-language/) - Yeni bir dil öğrenmek isteyenler için etkili yöntemler.
+- [İngilizce dinleme becerilerimi nasıl geliştirebilirim?](https://yvoronoy.github.io/awesome-english/go/how-can-i-improve-my-english-listening-skills/) - Konuşulan İngilizceyi daha iyi anlamaya yönelik öneriler.
+- [İngilizcenin konuşulmadığı bir ortamda İngilizceyi nasıl iyi konuşabilirim?](https://yvoronoy.github.io/awesome-english/go/how-can-i-learn-to-speak-english-well-in-a-non-english/) - İngilizcenin günlük yaşamda kullanılmadığı ortamlarda pratik yapma stratejileri.
+- [Bir ayda konuşma İngilizcemi nasıl önemli ölçüde geliştirebilirim?](https://yvoronoy.github.io/awesome-english/go/how-can-i-make-significant-improvements-to-my-spoken/) - Kısa sürede ilerlemek için uygulanabilir adımlar.
+- [İngilizce konuşma kursları faydalı mı?](https://yvoronoy.github.io/awesome-english/go/are-english-speaking-courses-helpful/) - İngilizce konuşma kurslarının ne kadar etkili olduğu üzerine tartışma.
+
+## Katkıda Bulunma
+
+Bu listeyi geliştirmeye yardımcı olun! Önce [katkıda bulunma yönergelerini](contributing.md) okuyun.
+
+Bu Awesome listesi, İngilizce öğrenen topluluğu için ❤️ ile sürdürülmektedir.
 
 [anki-url]: https://yvoronoy.github.io/awesome-english/go/anki/
 [hard-fork-url]: https://yvoronoy.github.io/awesome-english/go/hard-fork-by-the-new-york-times/
 [npr-url]: https://yvoronoy.github.io/awesome-english/go/npr/
 [murphy-grammar-url]: https://yvoronoy.github.io/awesome-english/go/english-grammar-in-use-murphy/
-
